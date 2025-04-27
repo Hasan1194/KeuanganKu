@@ -4,13 +4,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-
 import androidx.recyclerview.widget.RecyclerView;
-
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.h1194.keuanganku.R;
 import com.h1194.keuanganku.data.Transaction;
-
 import java.text.NumberFormat;
 import java.text.SimpleDateFormat;
 import java.util.List;
